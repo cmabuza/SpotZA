@@ -21,12 +21,11 @@ This Full-Stack Spotify App is a web application that allows users to explore an
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/SpotZA.git
-   cd SpotZA
 
 ## Setup Django project:
 2. Enter the repository:
    ```bash
-   cd spotify_app
+   cd SpotZA
    pip install -r requirements.txt
 
 ## Run migrations and start the development server:
@@ -53,4 +52,4 @@ Special thanks to the Spotify API documentation and the Tailwind CSS framework f
 ## Contact
 For any questions or inquiries, please contact claudiamabuza0@gmail.com.
 
-Enjoy exploring South African music with the Full-Stack Spotify App!
+Enjoy exploring South African music with the SpotZA!
